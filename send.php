@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Задание 1</title>
+<title>Задание 2</title>
 </head>
 <body>
 <b>Вы ввели:<b>
